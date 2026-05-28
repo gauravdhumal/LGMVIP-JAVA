@@ -15,12 +15,7 @@ Java
 JDK 8+
 Eclipse / IntelliJ IDEA
 Git & GitHub
-📂 Project Structure
-src/
- ├── model/
- ├── service/
- ├── util/
- └── main/
+
 ▶️ How to Run
 Clone the repository
 git clone <your-github-repo-url>
